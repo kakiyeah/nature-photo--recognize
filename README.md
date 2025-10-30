@@ -1,9 +1,8 @@
 <p align="center">
   <strong>🪶 Horizon View, A Intelligent Science Popularization App based on react native</strong><br/>
-  <strong>😻 湿地探索导览 · 物种智能识别</strong>
 </p>
 
-## 💻 本地开发
+## 💻  Local Development
 - npm: 10
 - node: 21
 
@@ -12,7 +11,7 @@ npm install -g yarn
 yarn
 yarn expo start --tunnel
 ```
-ios端下载 Expo Go App, 连接vpn或代理服务后用ios自带相机扫描终端二维码，即可在 Expo Go 中启动项目
+On iOS: Download the Expo Go app from the App Store. Then, use the built-in iOS camera to scan the QR code from your terminal to open the project in Expo Go
 
 ## ⛰ 项目预览
 
