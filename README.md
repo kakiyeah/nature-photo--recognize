@@ -3,7 +3,7 @@
 </p>
 
 ## Frontend
-React Native + Expo（Managed Workflow）
+React Native + Expo
 
 ## 💻  Local Development
 - npm: 10
