@@ -14,7 +14,7 @@ npm install -g yarn
 yarn
 yarn expo start --tunnel
 ```
-On iOS: Download the Expo Go app from the App Store. Then, use the built-in iOS camera to scan the QR code from your terminal to open the project in Expo Go
+On iOS: Download the Expo Go app from the App Store. Then, use the built-in iOS camera to scan the QR code from your terminal to open the project in Expo Go.
 
 ## ⛰ Project Preview
 
